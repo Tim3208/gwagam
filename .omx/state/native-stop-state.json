@@ -1,0 +1,24 @@
+{
+  "sessions": {
+    "019e36d9-585f-7a12-bdc3-a2abaad30d08": {
+      "ordinary_no_progress_guard": {
+        "fingerprint": "ordinary|{\"title\":\"?�공 추천 ??구현\"}",
+        "first_seen_at": "2026-05-17T16:51:23.557Z",
+        "last_seen_at": "2026-05-17T16:51:23.557Z",
+        "repeat_count": 1,
+        "last_turn_id": "019e36d9-58c9-7ae1-bc03-2984981f8633",
+        "last_thread_id": null
+      }
+    },
+    "019e36d9-4abe-7b13-a9d6-96727bf72c36": {
+      "ordinary_no_progress_guard": {
+        "fingerprint": "ordinary|구현 ?�료?�습?�다. 변�??�항: - `src/app.jsx`: 기존 2???�?�보??ui�?모바??챗봇???�터?�이?�로 교체?�습?�다. - `src/styles.css`: 모바???�레??배경, safe-area, overflow 방�?, ?�택 ?�상 ?�을 추�??�습?�다. - `design.md`: ?�안 기�???맞게 모바??메신?�???�자???�칙�?컴포?�트�?갱신?�습?�다. 검�? - `npm run build` ?�공 - dev server ?�답 ?�인: `http://127.0.0.1:5174` - 390px ?�드리스 chrome 캡처 ?�인 ?�료: `.omx/logs/chat-ui-390.png` ?�재 ?�면?� ?�안처럼 `과감` ?�더, `ai ??��???�색` ?�태 pill, ?�색 ai 말풍?? 보라???�용???�리?�라??말풍?? 모바??중앙 ?�레??구조�??�작?�니??",
+        "first_seen_at": "2026-05-18T04:06:24.822Z",
+        "last_seen_at": "2026-05-18T04:06:24.822Z",
+        "repeat_count": 1,
+        "last_turn_id": "019e393d-c94f-7e31-81a5-36045710d154",
+        "last_thread_id": null
+      }
+    }
+  }
+}

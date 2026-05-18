@@ -1,0 +1,6 @@
+{"timestamp":"2026-05-18T03:59:05.308Z","type":"native_hook_stdin_parse_error","hook_event_name":"Unknown","error":"Expected double-quoted property name in JSON at position 4751 (line 1 column 4752)"}
+{"timestamp":"2026-05-18T03:59:05.360Z","type":"native_hook_stdin_parse_error","hook_event_name":"Unknown","error":"Expected double-quoted property name in JSON at position 782 (line 1 column 783)"}
+{"timestamp":"2026-05-18T03:59:45.804Z","type":"native_hook_stdin_parse_error","hook_event_name":"Unknown","error":"Expected ',' or '}' after property value in JSON at position 2216 (line 1 column 2217)"}
+{"timestamp":"2026-05-18T04:00:25.370Z","type":"native_hook_stdin_parse_error","hook_event_name":"Unknown","error":"Expected double-quoted property name in JSON at position 766 (line 1 column 767)"}
+{"timestamp":"2026-05-18T04:00:25.379Z","type":"native_hook_stdin_parse_error","hook_event_name":"Unknown","error":"Expected double-quoted property name in JSON at position 4735 (line 1 column 4736)"}
+{"timestamp":"2026-05-18T04:01:55.594Z","type":"native_hook_stdin_parse_error","hook_event_name":"Unknown","error":"Expected double-quoted property name in JSON at position 775 (line 1 column 776)"}
